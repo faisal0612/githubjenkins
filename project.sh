@@ -1,2 +1,2 @@
 echo "This is my Jenkins second code trigger Test using webhooks" 
-Testing again with the new permissions and webhooks url.
+Testing again with the new permissions.
