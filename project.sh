@@ -3,5 +3,6 @@ echo "Testing again with the new permissions."
 echo "Third test without the shell command,"
 echo "Fourth test with different chmod."
 echo "testing on another day - new server for new worker node."
+echo "another test."
 
 
